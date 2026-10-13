@@ -4,7 +4,7 @@ title: About me
 subtitle: Who am I?
 ---
 
-Hola, hello! I'm Andrea Ortega and I'm a graduate student at University of Massachusetts Amherst.
+Hola, hello! I'm Andrea Ortega Trujillo [anˈdɾea oɾˈteɣa tɾuˈhijo] and I'm a graduate student at University of Massachusetts Amherst.
 Here you have some (kind of) interesting things about me:
 
 - I'm from Spain! I grew up in the southern region, right next to the Mediterranean coast. Spanish is my native language.
