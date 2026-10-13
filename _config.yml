@@ -48,7 +48,7 @@ round-avatar: false
 social-network-links:
   email: "aortegatruji@umass.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  linkedin: "www.linkedin.com/in/andrea-ortega-trujillo-"
+  linkedin: "https://www.linkedin.com/in/andrea-ortega-trujillo-"
 
 
 ###########################
