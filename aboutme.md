@@ -5,7 +5,7 @@ subtitle: Who am I?
 ---
 
 Hola, hello! I'm Andrea Ortega and I'm a graduate student at University of Massachusetts Amherst.
-Some (kind of) interesting things about me:
+Here you have some (kind of) interesting things about me:
 
 - I'm from Spain! I grew up in the southern region, right next to the Mediterranean coast. Spanish is my native language.
 - Because of my recent exposure to Brazilian culture, I'm venturing into portraying myself as an intermediate Portuguese speaker! I also speak German and English.
