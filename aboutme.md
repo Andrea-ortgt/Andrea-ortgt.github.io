@@ -13,5 +13,5 @@ Some (kind of) interesting things about me:
   
 
 What else do you need?
-You can contact me at <b>aortegatruji@umass.edu<b> and I'll aswer your questions!
+You can contact me at <b>aortegatruji@umass.edu and I'll aswer your questions!
 
