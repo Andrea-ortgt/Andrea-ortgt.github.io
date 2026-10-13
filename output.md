@@ -1,3 +1,7 @@
+---
+layout: page
+title: Recent work
+---
 
 These are some things I have been working on:
 
