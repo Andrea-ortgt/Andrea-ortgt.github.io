@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hola, hello! I'm Andrea Ortega and I'm a graduate student at University of Massachusetts Amherst.
+Some (kind of) interesting things about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm from Spain! I grew up in the southern region, right next to the Mediterranean coast. Spanish is my native language.
+- Because of my recent exposure to Brazilian culture, I'm venturing into portraying myself as an intermediate Portuguese speaker! I also speak German and English.
+- I love hiking, reading, and murdokus. I try to challenge myself every day with Wordle.
+  
 
 What else do you need?
+You can contact me at <b>aortegatruji@umass.edu<b> and I'll aswer your questions!
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
