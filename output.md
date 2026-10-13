@@ -1,5 +1,5 @@
 
-Title: These are some things I have been working on:
+These are some things I have been working on:
 
 <b>Some presentations:
 
